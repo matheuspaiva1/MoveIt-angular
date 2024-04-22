@@ -1,0 +1,34 @@
+.input-wrapper {
+  color: #555555;
+  font-size: 16px;
+  text-align: start;
+
+}
+
+input {
+  border: none;
+  background-color: #F1F3F6;
+
+  padding: 12px 0 12px 20px;
+  border-radius: 8px 0 0 8px;
+  width: 100%;
+}
+
+.input-wrapper .input-content {
+  width: 100%;
+  display: flex;
+  
+
+}
+
+.icon {
+  padding: 12px;
+  background-color: #7001FD;
+
+  border-radius: 0 8px 8px 0;
+
+  height: 50px;
+}
+
+label {
+}
