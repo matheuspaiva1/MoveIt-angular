@@ -65,6 +65,9 @@ section {
   padding: 12px 24px;
 }
 
+
+
+
 .form-section .btn-wrapper {
   display: flex;
   flex-direction: column;
@@ -106,4 +109,5 @@ section {
   border: 1px solid #7001FD;
   color: #7001FD;
 }
+
 
